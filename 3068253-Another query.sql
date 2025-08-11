@@ -1,1 +1,3 @@
-SELECT * FROM foo
+SELECT * FROM city;
+
+SELECT
